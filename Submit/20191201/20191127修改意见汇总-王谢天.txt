@@ -1,0 +1,106 @@
+###################################################################
+格式：
+"意见" + "空格" + "-#" + "提出意见人的姓名拼音缩写"
+"(done by" + "完成人的姓名拼音缩写)" + "意见" + "空格" + "-#" + "提出意见人的姓名拼音缩写"
+
+示例：
+提高P7图片清晰度 -# xtwang
+(done by xkcai) 提高P7图片清晰度 -# xtwang
+
+该横线以下为正文部分
+###################################################################
+matlab1 第2页 所有二级标题样式按要求更正 -# xtwang
+
+matlab1 第2页 Para.1开头处“MATLAB”后的空格删去 -# zhangyb
+
+matlab1 第2页 Para.2“mathworks”改为“MathWorks” -# zhangyb
+
+matlab1 第2页 Para.2“它的指令”及其后面文字取消加粗 -# xtwang
+
+matlab1 第2页 “重要功能”一栏下的若干空格问题 -# zhangyb
+
+matlab1 第2页 “二、功能特性”一栏全部取消加粗 -# xtwang
+
+matlab1 第3页 所有二级标题样式按要求更正 -# xtwang
+
+matlab1 第3页 “2、特点”一栏及该部分其余内容取消加粗 -# xtwang
+
+matlab1 第3页 图片错误，更正图片 -# xtwang
+
+matlab1 第3页 请显示页码 -# xtwang
+
+matlab1 第4页 所有二级标题样式按要求更正 -# xtwang
+
+matlab1 第4页 所有正文内容的加粗取消（标题除外） -# xtwang
+
+matlab1 第4页 将“常用函数”边框去除 -# xtwang
+
+matlab1 第4页 将第一个“整数”删除 -# xtwang
+
+matlab1 第4页 将“fix(x)：无论正负，舍去小数至相邻整数；”更改为“fix(x)：舍去小数取整；” -# xtwang
+
+matlab1 第4页 将“floor(x)：下取整，即舍去正小数至相邻整数；”更改为“floor(x)：下取整；” -# xtwang
+
+matlab1 第4页 将“ceil(x)：上取整，即加入正小数至相邻整数；”更改为“ceil(x)：上取整；” -# xtwang
+
+matlab1 第4页 将“sign(x)：  符  号  函  数 (Signum function)；      当 x<0 时，sign(x)=-1；      当 x=0 时，sign(x)=0;      当 x>0 时，sign(x)=1；”更改为“sign(x)：符号函数；” -# xtwang
+
+matlab1 第4页 将“MATLAB 基本绘图函数”一栏移至“五、常用函数”这一部分的后面 -# xtwang
+
+matlab1 第4页 将“建议”一栏下1，2，3三个标号对齐 -# zhangyb
+
+matlab1 第5页 所有正文内容的加粗取消（标题除外） -# xtwang
+
+matlab1 第5页 “优点”加粗 -# xtwang
+
+matlab1 第5页 各段落的首行缩进建议统一为两字符 -# zhangyb
+
+matlab1 第5页 以“例如 2*12 这样一”开头，以“单片机的编程。”部分边框去除 -# xtwang
+
+matlab1 第5页 请显示页码 -# xtwang
+
+matlab1 第6页 所有正文内容的加粗取消（标题除外） -# xtwang
+
+matlab1 第6页 将“背景介绍”一栏下的标号2）与1）对齐，4）与3）对齐 -# zhangyb
+
+matlab1 第6页 将“背景介绍”一栏下的标号1）2）3）4）更正为四级标题样式 -# xtwang
+
+matlab1 第6页 “背景介绍”在页右侧的各段首行需要对齐 -# zhangyb
+
+matlab1 第6、7页 将“3、数据科学过程”一栏下的标号a）b）c）等更正为四级标题样式 -# xtwang
+
+matlab1 第7页 增加水印 -# xtwang
+
+matlab1 第7页 各段首行缩进建议统一为两字符 -# zhangyb
+
+matlab1 第7页 将“数据建模”一栏下的标号i. ii.等更正为五级标题样式 -# xtwang
+
+matlab1 第7页 “4、器学习在数据科学中的应用”改为“4、机器学习在数据科学中的应用” -# zhangyb
+
+matlab1 第7页 将“4、机器学习在数据科学中的应用”下的1）2）3）对齐 -# zhangyb
+
+matlab1 第7页 将“4、机器学习在数据科学中的应用”一栏下的标号1）2）3）4）更正为四级标题样式 -# xtwang
+
+matlab1 第7页 将“机器学习的类型：”一栏下的标号1）2）3）4）更正为四级标题样式 -# xtwang
+
+matlab1 第7页 请显示页码 -# xtwang
+
+matlab1 第8页 删除水印 -# xtwang
+
+matlab1 第8页 各段首行缩进建议统一为两字符 -# zhangyb
+
+matlab1 第8页 将“i. 特征工程和模型选择”等栏的标号i. ii.等更正为四级标题样式 -# xtwang
+
+matlab1 第8页 “ii. 模型训练”需要对齐 -# zhangyb
+
+matlab1 第8页 第二张图片调整宽高比使文字正常显示 -# xtwang
+
+matlab1 第9页 请删除 -# xtwang
+
+stm32-1 第20页第21页 请对照样式规范重做 -# xtwang
+
+stm32-1 第23页 Para.3、4之间行距加大 -# zhangyb
+
+stm32-1 第24页 左侧倒数第3、第7行，右侧第2行的“·”后删去空格 -# zhangyb
+
+stm32-1 第24页 代码部分移动到左栏上一部分代码之后，请勿分为两栏；其他文字部分顺延 -# xtwang
